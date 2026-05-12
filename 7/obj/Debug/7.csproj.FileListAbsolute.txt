@@ -1,0 +1,5 @@
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\7\bin\Debug\7.exe.config
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\7\bin\Debug\7.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\7\bin\Debug\7.pdb
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\7\obj\Debug\7.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\7\obj\Debug\7.pdb

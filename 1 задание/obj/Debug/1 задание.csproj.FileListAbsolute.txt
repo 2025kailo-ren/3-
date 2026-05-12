@@ -1,0 +1,6 @@
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\bin\Debug\1 задание.exe.config
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\bin\Debug\1 задание.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\bin\Debug\1 задание.pdb
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\obj\Debug\1 задание.csprojResolveAssemblyReference.cache
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\obj\Debug\1 задание.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\1 задание\obj\Debug\1 задание.pdb
