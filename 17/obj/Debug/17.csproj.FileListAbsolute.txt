@@ -1,0 +1,6 @@
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\bin\Debug\17.exe.config
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\obj\Debug\17.csprojResolveAssemblyReference.cache
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\bin\Debug\17.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\bin\Debug\17.pdb
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\obj\Debug\17.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\17\obj\Debug\17.pdb

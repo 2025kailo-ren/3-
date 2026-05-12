@@ -1,0 +1,8 @@
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\21\bin\Debug\21.exe.config
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\21\bin\Debug\21.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\21\bin\Debug\21.pdb
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\21\obj\Debug\21.exe
+c:\users\пк\documents\visual studio 2015\Projects\практическая 3\21\obj\Debug\21.pdb
+E:\3\Федор\практическая 3\21\bin\Debug\21.exe.config
+E:\3\Федор\практическая 3\21\obj\Debug\21.exe
+E:\3\Федор\практическая 3\21\obj\Debug\21.pdb

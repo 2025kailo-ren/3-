@@ -1,0 +1,6 @@
+E:\3\Федор\практическая 3\23\bin\Debug\23.exe.config
+E:\3\Федор\практическая 3\23\bin\Debug\23.exe
+E:\3\Федор\практическая 3\23\bin\Debug\23.pdb
+E:\3\Федор\практическая 3\23\obj\Debug\23.csprojResolveAssemblyReference.cache
+E:\3\Федор\практическая 3\23\obj\Debug\23.exe
+E:\3\Федор\практическая 3\23\obj\Debug\23.pdb
